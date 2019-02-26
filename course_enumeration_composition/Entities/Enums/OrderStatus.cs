@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace course_enumeration_composition.Entities.Enums
 {
-    enum OrderStatus: int
+    enum OrderStatus: int 
     {
 
         PENDING_PAYMENT = 0,

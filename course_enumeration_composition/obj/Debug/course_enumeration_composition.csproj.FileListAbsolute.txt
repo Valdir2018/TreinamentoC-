@@ -1,0 +1,7 @@
+C:\Users\valdir.correia\source\repos\course_enumeration_composition\course_enumeration_composition\obj\Debug\course_enumeration_composition.csprojResolveAssemblyReference.cache
+C:\Users\valdir.correia\source\repos\course_enumeration_composition\course_enumeration_composition\obj\Debug\course_enumeration_composition.csproj.CoreCompileInputs.cache
+C:\Users\valdir.correia\source\repos\course_enumeration_composition\course_enumeration_composition\bin\Debug\course_enumeration_composition.exe.config
+C:\Users\valdir.correia\source\repos\course_enumeration_composition\course_enumeration_composition\bin\Debug\course_enumeration_composition.exe
+C:\Users\valdir.correia\source\repos\course_enumeration_composition\course_enumeration_composition\bin\Debug\course_enumeration_composition.pdb
+C:\Users\valdir.correia\source\repos\course_enumeration_composition\course_enumeration_composition\obj\Debug\course_enumeration_composition.exe
+C:\Users\valdir.correia\source\repos\course_enumeration_composition\course_enumeration_composition\obj\Debug\course_enumeration_composition.pdb

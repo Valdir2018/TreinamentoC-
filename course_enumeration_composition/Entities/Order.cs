@@ -34,9 +34,6 @@ namespace course_enumeration_composition.Entities
             Item.Remove(item);
         }
 
-        public double Total()
-        {
-          
-        }
+       
     }
 }
