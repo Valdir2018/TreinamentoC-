@@ -8,15 +8,25 @@ namespace course_enumeration_composition.Entities
 {
     class Client
     {
-        public string name{ get; set; }
-        public string email{ get; set; }
-        public DateTime birthDate  { get; set; }
+        public string Name{ get; set; }
+        public string Email{ get; set; }
+        public DateTime BirthDate  { get; set; }
 
         public Client(string name, string email, DateTime birthDate)
         {
-            this.name = name;
-            this.email = email;
-            this.birthDate = birthDate;
+            this.Name = name;
+            this.Email = email;
+            this.BirthDate = birthDate;
+        }
+
+        // Código do professor Nelio Alves
+        public override string ToString()
+        {
+            return Name
+                +  ",(" 
+                +  BirthDate.ToString("dd/MM/yyyy")
+                + ") - "
+                + Email;
         }
     }
 }
